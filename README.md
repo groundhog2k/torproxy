@@ -9,4 +9,4 @@
 ---
 
 3. Shut down the proxy after usage with
-````docker-compose down```
+```docker-compose down```
